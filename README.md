@@ -9,4 +9,5 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tahyeamin&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahyeamin&layout=compact&theme=radical)
+![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahyeamin&layout=compact&hide_border=true&theme=radical)
+
