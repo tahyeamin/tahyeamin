@@ -11,6 +11,6 @@
 
 ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahyeamin&layout=compact&hide_border=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahyeamin&layout=compact)
+
 
 
